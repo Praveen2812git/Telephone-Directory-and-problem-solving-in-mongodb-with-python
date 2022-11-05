@@ -1,7 +1,9 @@
-# Telephone-Directory-in-mongodb-with-python
+# Telephone Directory and problem solving in mongodb with python
+
+## Telephone Directory in mongodb with python
 A simple telephone directory with CRUD operations using mongodb in python.
 
-## Explanation
+### Explanation
 - There are four operations in Telephone Directory called CRUD operations. They are Create, Read, Update and Delete
 - **CREATE -** Creates data with the user given data.
   - Name
@@ -18,7 +20,20 @@ A simple telephone directory with CRUD operations using mongodb in python.
 
 - **DELETE -** Deletes the data with the phone number user proceeds with.
 
-## Requirements
+### Requirements
+- Mongodb database in PC
+- Installation of pymongo library in python
+  - pip install pymongo (Run this in terminal to install pymongo module)
+
+## Problem Solving in mongodb with python
+A problem solving steps to obtain desired output in mongodb
+
+### Explanation
+- student.json file is the file which also contains embedded data in it.
+- We use mongodb queries to obtain desired output
+- 7 questions are solved totally.
+
+### Requirements
 - Mongodb database in PC
 - Installation of pymongo library in python
   - pip install pymongo (Run this in terminal to install pymongo module)
